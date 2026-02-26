@@ -7,6 +7,10 @@ This project simulates a Business Intelligence analyst workflow for Sephora-styl
 ## Live Tableau Story
 - [Sephora Digital BI Story (Tableau Public)](https://public.tableau.com/views/SephoraDigitalBIStory/SephoraDigitalBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+## Project Documents
+- [BI Planning Report](docs/sephora_bi_planning_report.md): detailed stakeholder requirements, functional and non-functional specs, KPI definitions, risks, and implementation strategy.
+- [Final One-Page Executive Summary](docs/sephora_final_one_page_report.md): concise final report covering objective, methods, key findings, recommendations, next test, and expected business impact.
+
 ## Key Findings
 - App outperforms other channels on efficiency: `6.68%` session-to-order rate and `4.95` revenue per session.
 - Mobile web has the largest monetization gap: `2.15%` session-to-order rate and `1.48` revenue per session.
