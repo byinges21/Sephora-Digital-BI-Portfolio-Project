@@ -54,9 +54,3 @@ sqlite3 -header -column sephora_bi.db < sql/03_personalization_impact.sql
 - Tableau: follow `dashboard/tableau_guide.md`.
 - Both guides use identical KPI formulas and page structure so outputs are comparable.
 
-
-## Interview Talking Points
-- I translated digital behavior into measurable business outcomes.
-- I identified the highest-leverage channel-stage bottlenecks instead of only reporting topline KPIs.
-- I connected analysis to actionable product and merchandising decisions.
-- I designed a consistent metric layer that works across BI tools and stakeholder audiences.
