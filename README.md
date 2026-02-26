@@ -49,8 +49,4 @@ sqlite3 -header -column sephora_bi.db < sql/02_funnel_analysis.sql
 sqlite3 -header -column sephora_bi.db < sql/03_personalization_impact.sql
 ```
 
-## Dashboard Build Options
-- Power BI: follow `dashboard/powerbi_guide.md`.
-- Tableau: follow `dashboard/tableau_guide.md`.
-- Both guides use identical KPI formulas and page structure so outputs are comparable.
 
