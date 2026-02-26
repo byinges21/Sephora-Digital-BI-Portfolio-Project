@@ -4,6 +4,9 @@ A recruiter-ready digital analytics case study showing how BI can improve ecomme
 ## Business Objective
 This project simulates a Business Intelligence analyst workflow for Sephora-style digital channels. The objective is to identify where conversion is leaking, quantify the impact of personalization, and prioritize actions that increase revenue per session.
 
+## Live Tableau Story
+- [Sephora Digital BI Story (Tableau Public)](https://public.tableau.com/views/SephoraDigitalBIStory/SephoraDigitalBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Key Findings
 - App outperforms other channels on efficiency: `6.68%` session-to-order rate and `4.95` revenue per session.
 - Mobile web has the largest monetization gap: `2.15%` session-to-order rate and `1.48` revenue per session.
@@ -51,8 +54,6 @@ sqlite3 -header -column sephora_bi.db < sql/03_personalization_impact.sql
 - Tableau: follow `dashboard/tableau_guide.md`.
 - Both guides use identical KPI formulas and page structure so outputs are comparable.
 
-## Live Tableau Story
-- [Sephora Digital BI Story (Tableau Public)](https://public.tableau.com/views/SephoraDigitalBIStory/SephoraDigitalBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Interview Talking Points
 - I translated digital behavior into measurable business outcomes.
