@@ -1,5 +1,5 @@
 # Sephora Digital BI Portfolio Project
-A recruiter-ready digital analytics case study showing how BI can improve ecommerce conversion and revenue across desktop web, mobile web, and app.
+A digital analytics case study showing how BI can improve ecommerce conversion and revenue across desktop web, mobile web, and app.
 
 ## Business Objective
 This project simulates a Business Intelligence analyst workflow for Sephora-style digital channels. The objective is to identify where conversion is leaking, quantify the impact of personalization, and prioritize actions that increase revenue per session.
